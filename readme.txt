@@ -9,3 +9,5 @@ add line5
 add line6 in master
 add line6
 add line7 in dev
+add line8 for stash
+add line9 in dev
