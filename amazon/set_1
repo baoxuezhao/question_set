@@ -1,0 +1,10 @@
+url: http://www.geeksforgeeks.org/amazon-interview/
+1. To find if there is any root to leaf path with specified sum in a binary tree.
+    https://leetcode.com/problems/path-sum/description/
+    https://leetcode.com/problems/path-sum-ii/description/
+    http://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+
+2. Check if a character link list is palindrome or not.
+    https://leetcode.com/problems/palindrome-linked-list/description/
+
+3. A sorted array has been rotated r times to the left. Find r in least possible time.
